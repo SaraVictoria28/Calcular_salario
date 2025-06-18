@@ -1,0 +1,14 @@
+C:\Users\429438624\Documents\prova\bin\Debug\net8.0\prova.exe
+C:\Users\429438624\Documents\prova\bin\Debug\net8.0\prova.deps.json
+C:\Users\429438624\Documents\prova\bin\Debug\net8.0\prova.runtimeconfig.json
+C:\Users\429438624\Documents\prova\bin\Debug\net8.0\prova.dll
+C:\Users\429438624\Documents\prova\bin\Debug\net8.0\prova.pdb
+C:\Users\429438624\Documents\prova\obj\Debug\net8.0\prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\429438624\Documents\prova\obj\Debug\net8.0\prova.AssemblyInfoInputs.cache
+C:\Users\429438624\Documents\prova\obj\Debug\net8.0\prova.AssemblyInfo.cs
+C:\Users\429438624\Documents\prova\obj\Debug\net8.0\prova.csproj.CoreCompileInputs.cache
+C:\Users\429438624\Documents\prova\obj\Debug\net8.0\prova.dll
+C:\Users\429438624\Documents\prova\obj\Debug\net8.0\refint\prova.dll
+C:\Users\429438624\Documents\prova\obj\Debug\net8.0\prova.pdb
+C:\Users\429438624\Documents\prova\obj\Debug\net8.0\prova.genruntimeconfig.cache
+C:\Users\429438624\Documents\prova\obj\Debug\net8.0\ref\prova.dll
